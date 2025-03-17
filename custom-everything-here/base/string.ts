@@ -1,0 +1,300 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+const stringTypographyFontFamilyMontserrat = '"Montserrat"';
+const stringTypographyFontWeightLight = '"Light"';
+const stringTypographyFontWeightRegular = '"Regular"';
+const stringTypographyFontWeightMedium = '"Medium"';
+const stringTypographyFontWeightSemibold = '"Semibold"';
+const stringTypographyFontWeightBold = '"Bold"';
+const stringTypographyTextCaseNone = '"none"';
+const stringTypographyTextCaseUppercase = '"uppercase"';
+const stringTypographyTextDecorationNone = '"none"';
+const stringTypographyTextDecorationUnderline = '"underline"';
+const stringBorderStyleSolid = '"solid"';
+const stringTypographyFontFamilyValueSerifPro = '"Value Serif Pro"';
+const stringTypographyFontFamilyValueSansPro = '"Value Sans Pro"';
+const stringTypographyFontFamilyInter = '"Inter"';
+const stringTypographyFontFamilyRubik = '"Rubik"';
+const stringTypographyFontFamilyAeonik = '"Aeonik"';
+const stringTypographyFontFamilyMontserrat_copy_1 = '"Montserrat"';
+const stringTypographyFontFamilyOpenSans = '"Open Sans"';
+const stringTypographyFontFamilyNunito = '"Nunito"';
+const stringAssetsIllustration = '"tcg"';
+const stringAssetsLogo = '"tcg"';
+const stringBorderStyleComponentButtonFocus = stringBorderStyleSolid;
+const stringBorderStyleComponentButtonDefault = stringBorderStyleSolid;
+const stringTypographyDisplayLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyDisplayLargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplayLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyDisplayLargeMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyDisplayLargeMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplayLargeMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyDisplayDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyDisplayDefaultMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyDisplaySmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyDisplayDefaultTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplayDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyDisplaySmallMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineLargeMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineDefaultMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineSmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineSmallMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineXsmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyHeadlineXsmallMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleXlargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleXlargeMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleLargeMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleDefaultMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleSmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyTitleSmallMobileFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyLabelLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyLabelDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyLabelSmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyXlargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyXlargeStrongFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyXlargeLinkFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyLargeStrongFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyLargeLinkFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyDefaultStrongFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyDefaultLinkFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodySmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodySmallStrongFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodySmallLinkFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyMetaLargeFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyMetaDefaultFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyMetaDefaultSentenceCaseFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyMetaSmallFontFamily = stringTypographyFontFamilyMontserrat;
+const stringTypographyBodyXlargeLinkTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplayDefaultMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplayDefaultMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyDisplaySmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplaySmallMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyDisplaySmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyDisplaySmallMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineLargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineLargeMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineSmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineSmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineSmallMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineSmallMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineXsmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineXsmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineXsmallMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineXsmallMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineLargeMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineDefaultTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineDefaultMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyHeadlineDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleLargeMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleLargeMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyHeadlineDefaultMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleXlargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleXlargeMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleXlargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleLargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleXlargeMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleDefaultTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleDefaultMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleSmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleDefaultMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleSmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyTitleSmallMobileTextCase = stringTypographyTextCaseNone;
+const stringTypographyLabelLargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyTitleSmallMobileTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyLabelLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyLabelDefaultTextCase = stringTypographyTextCaseNone;
+const stringTypographyLabelDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyLabelSmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyLabelSmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyXlargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyXlargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyXlargeStrongTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyXlargeStrongTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyLargeLinkTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyDefaultTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyDefaultStrongTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyDefaultStrongTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyDefaultLinkTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodySmallTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodySmallTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodySmallStrongTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodySmallStrongTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodySmallLinkTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyLargeTextCase = stringTypographyTextCaseNone;
+const stringTypographyMetaDefaultSentenceCaseTextCase = stringTypographyTextCaseNone;
+const stringTypographyMetaDefaultSentenceCaseTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodyLargeStrongTextCase = stringTypographyTextCaseNone;
+const stringTypographyBodyLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyBodySmallLinkTextDecoration = stringTypographyTextDecorationUnderline;
+const stringTypographyBodyDefaultLinkTextDecoration = stringTypographyTextDecorationUnderline;
+const stringTypographyBodyLargeLinkTextDecoration = stringTypographyTextDecorationUnderline;
+const stringTypographyBodyXlargeLinkTextDecoration = stringTypographyTextDecorationUnderline;
+const stringTypographyBodyLargeStrongTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyMetaLargeTextCase = stringTypographyTextCaseUppercase;
+const stringTypographyMetaLargeTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyMetaDefaultTextCase = stringTypographyTextCaseUppercase;
+const stringTypographyMetaSmallTextCase = stringTypographyTextCaseUppercase;
+const stringTypographyMetaDefaultTextDecoration = stringTypographyTextDecorationNone;
+const stringTypographyMetaSmallTextDecoration = stringTypographyTextDecorationNone;
+
+export const StringTokens = {
+  stringTypographyFontFamilyMontserrat,
+  stringTypographyFontWeightLight,
+  stringTypographyFontWeightRegular,
+  stringTypographyFontWeightMedium,
+  stringTypographyFontWeightSemibold,
+  stringTypographyFontWeightBold,
+  stringTypographyTextCaseNone,
+  stringTypographyTextCaseUppercase,
+  stringTypographyTextDecorationNone,
+  stringTypographyTextDecorationUnderline,
+  stringBorderStyleSolid,
+  stringTypographyFontFamilyValueSerifPro,
+  stringTypographyFontFamilyValueSansPro,
+  stringTypographyFontFamilyInter,
+  stringTypographyFontFamilyRubik,
+  stringTypographyFontFamilyAeonik,
+  stringTypographyFontFamilyMontserrat_copy_1,
+  stringTypographyFontFamilyOpenSans,
+  stringTypographyFontFamilyNunito,
+  stringAssetsIllustration,
+  stringAssetsLogo,
+  stringBorderStyleComponentButtonFocus,
+  stringBorderStyleComponentButtonDefault,
+  stringTypographyDisplayLargeFontFamily,
+  stringTypographyDisplayLargeTextCase,
+  stringTypographyDisplayLargeTextDecoration,
+  stringTypographyDisplayLargeMobileFontFamily,
+  stringTypographyDisplayLargeMobileTextCase,
+  stringTypographyDisplayLargeMobileTextDecoration,
+  stringTypographyDisplayDefaultFontFamily,
+  stringTypographyDisplayDefaultMobileFontFamily,
+  stringTypographyDisplaySmallFontFamily,
+  stringTypographyDisplayDefaultTextCase,
+  stringTypographyDisplayDefaultTextDecoration,
+  stringTypographyDisplaySmallMobileFontFamily,
+  stringTypographyHeadlineLargeFontFamily,
+  stringTypographyHeadlineLargeMobileFontFamily,
+  stringTypographyHeadlineDefaultFontFamily,
+  stringTypographyHeadlineDefaultMobileFontFamily,
+  stringTypographyHeadlineSmallFontFamily,
+  stringTypographyHeadlineSmallMobileFontFamily,
+  stringTypographyHeadlineXsmallFontFamily,
+  stringTypographyHeadlineXsmallMobileFontFamily,
+  stringTypographyTitleXlargeFontFamily,
+  stringTypographyTitleXlargeMobileFontFamily,
+  stringTypographyTitleLargeFontFamily,
+  stringTypographyTitleLargeMobileFontFamily,
+  stringTypographyTitleDefaultFontFamily,
+  stringTypographyTitleDefaultMobileFontFamily,
+  stringTypographyTitleSmallFontFamily,
+  stringTypographyTitleSmallMobileFontFamily,
+  stringTypographyLabelLargeFontFamily,
+  stringTypographyLabelDefaultFontFamily,
+  stringTypographyLabelSmallFontFamily,
+  stringTypographyBodyXlargeFontFamily,
+  stringTypographyBodyXlargeStrongFontFamily,
+  stringTypographyBodyXlargeLinkFontFamily,
+  stringTypographyBodyLargeFontFamily,
+  stringTypographyBodyLargeStrongFontFamily,
+  stringTypographyBodyLargeLinkFontFamily,
+  stringTypographyBodyDefaultFontFamily,
+  stringTypographyBodyDefaultStrongFontFamily,
+  stringTypographyBodyDefaultLinkFontFamily,
+  stringTypographyBodySmallFontFamily,
+  stringTypographyBodySmallStrongFontFamily,
+  stringTypographyBodySmallLinkFontFamily,
+  stringTypographyMetaLargeFontFamily,
+  stringTypographyMetaDefaultFontFamily,
+  stringTypographyMetaDefaultSentenceCaseFontFamily,
+  stringTypographyMetaSmallFontFamily,
+  stringTypographyBodyXlargeLinkTextCase,
+  stringTypographyDisplayDefaultMobileTextCase,
+  stringTypographyDisplayDefaultMobileTextDecoration,
+  stringTypographyDisplaySmallTextCase,
+  stringTypographyDisplaySmallMobileTextCase,
+  stringTypographyDisplaySmallTextDecoration,
+  stringTypographyDisplaySmallMobileTextDecoration,
+  stringTypographyHeadlineLargeTextCase,
+  stringTypographyHeadlineLargeTextDecoration,
+  stringTypographyHeadlineLargeMobileTextCase,
+  stringTypographyHeadlineSmallTextCase,
+  stringTypographyHeadlineSmallTextDecoration,
+  stringTypographyHeadlineSmallMobileTextCase,
+  stringTypographyHeadlineSmallMobileTextDecoration,
+  stringTypographyHeadlineXsmallTextCase,
+  stringTypographyHeadlineXsmallTextDecoration,
+  stringTypographyHeadlineXsmallMobileTextCase,
+  stringTypographyHeadlineXsmallMobileTextDecoration,
+  stringTypographyHeadlineLargeMobileTextDecoration,
+  stringTypographyHeadlineDefaultTextCase,
+  stringTypographyHeadlineDefaultMobileTextCase,
+  stringTypographyHeadlineDefaultTextDecoration,
+  stringTypographyTitleLargeMobileTextCase,
+  stringTypographyTitleLargeMobileTextDecoration,
+  stringTypographyHeadlineDefaultMobileTextDecoration,
+  stringTypographyTitleXlargeTextCase,
+  stringTypographyTitleXlargeMobileTextCase,
+  stringTypographyTitleXlargeTextDecoration,
+  stringTypographyTitleLargeTextCase,
+  stringTypographyTitleXlargeMobileTextDecoration,
+  stringTypographyTitleLargeTextDecoration,
+  stringTypographyTitleDefaultTextCase,
+  stringTypographyTitleDefaultTextDecoration,
+  stringTypographyTitleDefaultMobileTextCase,
+  stringTypographyTitleSmallTextCase,
+  stringTypographyTitleDefaultMobileTextDecoration,
+  stringTypographyTitleSmallTextDecoration,
+  stringTypographyTitleSmallMobileTextCase,
+  stringTypographyLabelLargeTextCase,
+  stringTypographyTitleSmallMobileTextDecoration,
+  stringTypographyLabelLargeTextDecoration,
+  stringTypographyLabelDefaultTextCase,
+  stringTypographyLabelDefaultTextDecoration,
+  stringTypographyLabelSmallTextCase,
+  stringTypographyLabelSmallTextDecoration,
+  stringTypographyBodyXlargeTextCase,
+  stringTypographyBodyXlargeTextDecoration,
+  stringTypographyBodyXlargeStrongTextCase,
+  stringTypographyBodyXlargeStrongTextDecoration,
+  stringTypographyBodyLargeLinkTextCase,
+  stringTypographyBodyDefaultTextCase,
+  stringTypographyBodyDefaultTextDecoration,
+  stringTypographyBodyDefaultStrongTextCase,
+  stringTypographyBodyDefaultStrongTextDecoration,
+  stringTypographyBodyDefaultLinkTextCase,
+  stringTypographyBodySmallTextCase,
+  stringTypographyBodySmallTextDecoration,
+  stringTypographyBodySmallStrongTextCase,
+  stringTypographyBodySmallStrongTextDecoration,
+  stringTypographyBodySmallLinkTextCase,
+  stringTypographyBodyLargeTextCase,
+  stringTypographyMetaDefaultSentenceCaseTextCase,
+  stringTypographyMetaDefaultSentenceCaseTextDecoration,
+  stringTypographyBodyLargeStrongTextCase,
+  stringTypographyBodyLargeTextDecoration,
+  stringTypographyBodySmallLinkTextDecoration,
+  stringTypographyBodyDefaultLinkTextDecoration,
+  stringTypographyBodyLargeLinkTextDecoration,
+  stringTypographyBodyXlargeLinkTextDecoration,
+  stringTypographyBodyLargeStrongTextDecoration,
+  stringTypographyMetaLargeTextCase,
+  stringTypographyMetaLargeTextDecoration,
+  stringTypographyMetaDefaultTextCase,
+  stringTypographyMetaSmallTextCase,
+  stringTypographyMetaDefaultTextDecoration,
+  stringTypographyMetaSmallTextDecoration,
+}
