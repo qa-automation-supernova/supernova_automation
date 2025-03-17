@@ -1,0 +1,76 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+import { DimensionTokens } from "./dimension";
+
+const spaceSpacingSpacing0 = DimensionTokens.dimensionSpacingSpacing0;
+const spaceSpacingSpacing2 = DimensionTokens.dimensionSpacingSpacing2;
+const spaceSpacingSpacing4 = DimensionTokens.dimensionSpacingSpacing4;
+const spaceSpacingSpacing6 = DimensionTokens.dimensionSpacingSpacing6;
+const spaceSpacingSpacing8 = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingSpacing12 = DimensionTokens.dimensionSpacingSpacing12;
+const spaceSpacingSpacing14 = DimensionTokens.dimensionSpacingSpacing14;
+const spaceSpacingSpacing16 = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingSpacing18 = DimensionTokens.dimensionSpacingSpacing18;
+const spaceSpacingSpacing24 = DimensionTokens.dimensionSpacingSpacing24;
+const spaceSpacingSpacing32 = DimensionTokens.dimensionSpacingSpacing32;
+const spaceSpacingSpacing40 = DimensionTokens.dimensionSpacingSpacing40;
+const spaceSpacingSpacing48 = DimensionTokens.dimensionSpacingSpacing48;
+const spaceSpacingSpacing64 = DimensionTokens.dimensionSpacingSpacing64;
+const spaceSpacingSpacing80 = DimensionTokens.dimensionSpacingSpacing80;
+const spaceSpacingSpacing96 = DimensionTokens.dimensionSpacingSpacing96;
+const spaceSpacingSpacing120 = DimensionTokens.dimensionSpacingSpacing120;
+const spaceSpacingComponentButtonPaddingVerticalSmall = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingComponentButtonPaddingVerticalMedium = DimensionTokens.dimensionSpacingSpacing12;
+const spaceSpacingComponentButtonPaddingVerticalLarge = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentButtonPaddingHorizontalSmall = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentButtonPaddingHorizontalMedium = DimensionTokens.dimensionSpacingSpacing24;
+const spaceSpacingComponentButtonPaddingHorizontalLarge = DimensionTokens.dimensionSpacingSpacing32;
+const spaceSpacingComponentButtonPaddingHorizontalSmallIconOnly = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingComponentButtonPaddingHorizontalMediumIconOnly = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentButtonPaddingHorizontalLargeIconOnly = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentButtonPaddingVerticalSmallIconOnly = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingComponentButtonPaddingVerticalMediumIconOnly = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentButtonPaddingVerticalLargeIconOnly = DimensionTokens.dimensionSpacingSpacing16;
+const spaceSpacingComponentBadgePaddingHorizontal = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingComponentBadgePaddingVertical = DimensionTokens.dimensionSpacingSpacing2;
+const spaceSpacingComponentDesktopMenuPaddingHorizontalPadding = DimensionTokens.dimensionSpacingSpacing8;
+const spaceSpacingComponentDesktopMenuPaddingVerticalPadding = DimensionTokens.dimensionSpacingSpacing16;
+
+export const SpaceTokens = {
+  spaceSpacingSpacing0,
+  spaceSpacingSpacing2,
+  spaceSpacingSpacing4,
+  spaceSpacingSpacing6,
+  spaceSpacingSpacing8,
+  spaceSpacingSpacing12,
+  spaceSpacingSpacing14,
+  spaceSpacingSpacing16,
+  spaceSpacingSpacing18,
+  spaceSpacingSpacing24,
+  spaceSpacingSpacing32,
+  spaceSpacingSpacing40,
+  spaceSpacingSpacing48,
+  spaceSpacingSpacing64,
+  spaceSpacingSpacing80,
+  spaceSpacingSpacing96,
+  spaceSpacingSpacing120,
+  spaceSpacingComponentButtonPaddingVerticalSmall,
+  spaceSpacingComponentButtonPaddingVerticalMedium,
+  spaceSpacingComponentButtonPaddingVerticalLarge,
+  spaceSpacingComponentButtonPaddingHorizontalSmall,
+  spaceSpacingComponentButtonPaddingHorizontalMedium,
+  spaceSpacingComponentButtonPaddingHorizontalLarge,
+  spaceSpacingComponentButtonPaddingHorizontalSmallIconOnly,
+  spaceSpacingComponentButtonPaddingHorizontalMediumIconOnly,
+  spaceSpacingComponentButtonPaddingHorizontalLargeIconOnly,
+  spaceSpacingComponentButtonPaddingVerticalSmallIconOnly,
+  spaceSpacingComponentButtonPaddingVerticalMediumIconOnly,
+  spaceSpacingComponentButtonPaddingVerticalLargeIconOnly,
+  spaceSpacingComponentBadgePaddingHorizontal,
+  spaceSpacingComponentBadgePaddingVertical,
+  spaceSpacingComponentDesktopMenuPaddingHorizontalPadding,
+  spaceSpacingComponentDesktopMenuPaddingVerticalPadding,
+}
