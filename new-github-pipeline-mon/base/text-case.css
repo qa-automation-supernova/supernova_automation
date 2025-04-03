@@ -4,6 +4,9 @@
  */
 
 :root {
-  --gradientBrandingTwilight: linear-gradient(90deg, #19426c 0%, #2c1f56 100%);
-  --gradientBrandingNavigation: linear-gradient(90deg, #19426c 0%, #2c1f56 100%);
+  --textCaseCaseOriginal: none;
+  --textCaseCaseUppercase: uppercase;
+  --textCaseCaseLowercase: lowercase;
+  --textCaseCaseCapitalize: capitalize;
+  --textCaseCaseSmallCaps: capitalize;
 }

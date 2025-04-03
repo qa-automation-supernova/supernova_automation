@@ -1,4 +1,8 @@
-/* This file was generated automatically and should not be changed manually. */
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
 :root {
   --colorNeutralText: #dfdfdf;
   --colorNeutralTextWeak: #949494;
@@ -106,4 +110,5 @@
   --colorChartsPositive: #39812c;
   --colorChartsNegative: #c34648;
   --colorBrandingStitch: #ffcc00;
+  --colorAliasColor: var(--colorSuccessText);
 }

@@ -4,6 +4,7 @@
  */
 
 :root {
-  --gradientBrandingTwilight: linear-gradient(90deg, #19426c 0%, #2c1f56 100%);
-  --gradientBrandingNavigation: linear-gradient(90deg, #19426c 0%, #2c1f56 100%);
+  --borderNewBorderToken: 1px solid #e32222;
+  --borderNewBorder: 1px solid #000000;
+  --borderBorderReference: var(--borderNewBorder);
 }
