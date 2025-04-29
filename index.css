@@ -1,4 +1,3 @@
 /* Base tokens */
-@import "./base/border-radius.css";
-@import "./base/border-width.css";
-@import "./base/letter-spacing.css";
+@import "./base/color.css";
+@import "./base/shadow.css";
