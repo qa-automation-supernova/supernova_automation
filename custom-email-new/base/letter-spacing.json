@@ -1,0 +1,347 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "letterSpacing": {
+    "typography": {
+      "display": {
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.2xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "largeMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.2xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.2xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "defaultMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.2xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "smallMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
+      "meta": {
+        "defaultSentenceCase": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.medium}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.medium}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.medium}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.medium}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
+      "body": {
+        "xlargeLink": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "xlarge": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "xlargeStrong": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "largeStrong": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "largeLink": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "defaultStrong": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "defaultLink": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "smallStrong": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "smallLink": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
+      "headline": {
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "largeMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.xsmall}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.small}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "defaultMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.small}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "smallMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "xsmall": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "xsmallMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
+      "title": {
+        "xlarge": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "xlargeMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "largeMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "defaultMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "smallMobile": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      },
+      "label": {
+        "large": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "default": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        },
+        "small": {
+          "letterSpacing": {
+            "base": {
+              "value": "{dimension.typography.letterSpacing.default}",
+              "type": "letterSpacing"
+            }
+          }
+        }
+      }
+    }
+  }
+}

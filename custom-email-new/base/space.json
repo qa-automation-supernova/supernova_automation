@@ -1,0 +1,207 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "space": {
+    "spacing": {
+      "spacing0_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing0}",
+          "type": "space"
+        }
+      },
+      "spacing2_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing2}",
+          "type": "space"
+        }
+      },
+      "spacing4_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing4}",
+          "type": "space"
+        }
+      },
+      "spacing6_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing6}",
+          "type": "space"
+        }
+      },
+      "spacing8_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing8}",
+          "type": "space"
+        }
+      },
+      "spacing12_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing12}",
+          "type": "space"
+        }
+      },
+      "spacing14_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing14}",
+          "type": "space"
+        }
+      },
+      "spacing16_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing16}",
+          "type": "space"
+        }
+      },
+      "spacing18_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing18}",
+          "type": "space"
+        }
+      },
+      "spacing24_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing24}",
+          "type": "space"
+        }
+      },
+      "spacing32_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing32}",
+          "type": "space"
+        }
+      },
+      "spacing40_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing40}",
+          "type": "space"
+        }
+      },
+      "spacing48_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing48}",
+          "type": "space"
+        }
+      },
+      "spacing64_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing64}",
+          "type": "space"
+        }
+      },
+      "spacing80_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing80}",
+          "type": "space"
+        }
+      },
+      "spacing96_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing96}",
+          "type": "space"
+        }
+      },
+      "spacing120_1": {
+        "base": {
+          "value": "{dimension.spacing.spacing120}",
+          "type": "space"
+        }
+      },
+      "component": {
+        "buttonPaddingVerticalSmall": {
+          "base": {
+            "value": "{dimension.spacing.spacing8}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingVerticalMedium": {
+          "base": {
+            "value": "{dimension.spacing.spacing12}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingVerticalLarge": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalSmall": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalMedium": {
+          "base": {
+            "value": "{dimension.spacing.spacing24}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalLarge": {
+          "base": {
+            "value": "{dimension.spacing.spacing32}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalSmallIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing8}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalMediumIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingHorizontalLargeIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingVerticalSmallIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing8}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingVerticalMediumIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "buttonPaddingVerticalLargeIconOnly": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        },
+        "badgePaddingHorizontal": {
+          "base": {
+            "value": "{dimension.spacing.spacing8}",
+            "type": "space"
+          }
+        },
+        "badgePaddingVertical": {
+          "base": {
+            "value": "{dimension.spacing.spacing2}",
+            "type": "space"
+          }
+        },
+        "desktopMenuPaddingHorizontalPadding": {
+          "base": {
+            "value": "{dimension.spacing.spacing8}",
+            "type": "space"
+          }
+        },
+        "desktopMenuPaddingVerticalPadding": {
+          "base": {
+            "value": "{dimension.spacing.spacing16}",
+            "type": "space"
+          }
+        }
+      }
+    }
+  }
+}
