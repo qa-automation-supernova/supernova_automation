@@ -1,0 +1,141 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "space": {
+    "spacing": {
+      "spacing-0_1": {
+        "value": "{dimension.spacing.spacing-0}",
+        "type": "space"
+      },
+      "spacing-2_1": {
+        "value": "{dimension.spacing.spacing-2}",
+        "type": "space"
+      },
+      "spacing-4_1": {
+        "value": "{dimension.spacing.spacing-4}",
+        "type": "space"
+      },
+      "spacing-6_1": {
+        "value": "{dimension.spacing.spacing-6}",
+        "type": "space"
+      },
+      "spacing-8_1": {
+        "value": "{dimension.spacing.spacing-8}",
+        "type": "space"
+      },
+      "spacing-12_1": {
+        "value": "{dimension.spacing.spacing-12}",
+        "type": "space"
+      },
+      "spacing-14_1": {
+        "value": "{dimension.spacing.spacing-14}",
+        "type": "space"
+      },
+      "spacing-16_1": {
+        "value": "{dimension.spacing.spacing-16}",
+        "type": "space"
+      },
+      "spacing-18_1": {
+        "value": "{dimension.spacing.spacing-18}",
+        "type": "space"
+      },
+      "spacing-24_1": {
+        "value": "{dimension.spacing.spacing-24}",
+        "type": "space"
+      },
+      "spacing-32_1": {
+        "value": "{dimension.spacing.spacing-32}",
+        "type": "space"
+      },
+      "spacing-40_1": {
+        "value": "{dimension.spacing.spacing-40}",
+        "type": "space"
+      },
+      "spacing-48_1": {
+        "value": "{dimension.spacing.spacing-48}",
+        "type": "space"
+      },
+      "spacing-64_1": {
+        "value": "{dimension.spacing.spacing-64}",
+        "type": "space"
+      },
+      "spacing-80_1": {
+        "value": "{dimension.spacing.spacing-80}",
+        "type": "space"
+      },
+      "spacing-96_1": {
+        "value": "{dimension.spacing.spacing-96}",
+        "type": "space"
+      },
+      "spacing-120_1": {
+        "value": "{dimension.spacing.spacing-120}",
+        "type": "space"
+      },
+      "component": {
+        "button-padding-vertical-small": {
+          "value": "{dimension.spacing.spacing-8}",
+          "type": "space"
+        },
+        "button-padding-vertical-medium": {
+          "value": "{dimension.spacing.spacing-12}",
+          "type": "space"
+        },
+        "button-padding-vertical-large": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "button-padding-horizontal-small": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "button-padding-horizontal-medium": {
+          "value": "{dimension.spacing.spacing-24}",
+          "type": "space"
+        },
+        "button-padding-horizontal-large": {
+          "value": "{dimension.spacing.spacing-32}",
+          "type": "space"
+        },
+        "button-padding-horizontal-small-icon-only": {
+          "value": "{dimension.spacing.spacing-8}",
+          "type": "space"
+        },
+        "button-padding-horizontal-medium-icon-only": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "button-padding-horizontal-large-icon-only": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "button-padding-vertical-small-icon-only": {
+          "value": "{dimension.spacing.spacing-8}",
+          "type": "space"
+        },
+        "button-padding-vertical-medium-icon-only": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "button-padding-vertical-large-icon-only": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        },
+        "badge-padding-horizontal": {
+          "value": "{dimension.spacing.spacing-8}",
+          "type": "space"
+        },
+        "badge-padding-vertical": {
+          "value": "{dimension.spacing.spacing-2}",
+          "type": "space"
+        },
+        "desktop-menu-padding-horizontal-padding": {
+          "value": "{dimension.spacing.spacing-8}",
+          "type": "space"
+        },
+        "desktop-menu-padding-vertical-padding": {
+          "value": "{dimension.spacing.spacing-16}",
+          "type": "space"
+        }
+      }
+    }
+  }
+}
