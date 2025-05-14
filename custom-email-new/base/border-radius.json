@@ -1,0 +1,120 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "borderRadius": {
+    "borderRadius": {
+      "borderRadius0": {
+        "base": {
+          "value": "0px",
+          "type": "borderRadius"
+        }
+      },
+      "borderRadius4": {
+        "base": {
+          "value": "4px",
+          "type": "borderRadius"
+        }
+      },
+      "borderRadius8": {
+        "base": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "borderRadius16": {
+        "base": {
+          "value": "16px",
+          "type": "borderRadius"
+        }
+      },
+      "borderRadius30": {
+        "base": {
+          "value": "30px",
+          "type": "borderRadius"
+        }
+      },
+      "borderRadius900": {
+        "base": {
+          "value": "900px",
+          "type": "borderRadius"
+        }
+      },
+      "none": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius0}",
+          "type": "borderRadius"
+        }
+      },
+      "small": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius4}",
+          "type": "borderRadius"
+        }
+      },
+      "default": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius8}",
+          "type": "borderRadius"
+        }
+      },
+      "large": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius30}",
+          "type": "borderRadius"
+        }
+      },
+      "round": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius900}",
+          "type": "borderRadius"
+        }
+      },
+      "component": {
+        "button": {
+          "base": {
+            "value": "{borderRadius.borderRadius.borderRadius900}",
+            "type": "borderRadius"
+          },
+          "description": "pre-deprecation notice. remove this token with next major release."
+        },
+        "badge": {
+          "base": {
+            "value": "{borderRadius.borderRadius.borderRadius4}",
+            "type": "borderRadius"
+          }
+        },
+        "field": {
+          "base": {
+            "value": "{borderRadius.borderRadius.borderRadius8}",
+            "type": "borderRadius"
+          }
+        },
+        "fieldBrand": {
+          "base": {
+            "value": "{borderRadius.borderRadius.borderRadius900}",
+            "type": "borderRadius"
+          },
+          "description": "pre-deprecation notice. remove this token with next major release. ---- used for brand expression within the field component"
+        },
+        "tabs": {
+          "base": {
+            "value": "{borderRadius.borderRadius.borderRadius0}",
+            "type": "borderRadius"
+          }
+        }
+      },
+      "brand": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius900}",
+          "type": "borderRadius"
+        },
+        "description": "pre-deprecation notice. remove this token with next major release."
+      },
+      "container": {
+        "base": {
+          "value": "{borderRadius.borderRadius.borderRadius30}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}

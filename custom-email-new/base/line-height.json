@@ -1,0 +1,593 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "lineHeight": {
+    "typography": {
+      "display": {
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.108}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "largeMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.96}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.80}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "defaultMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.72}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.64}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "smallMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.56}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      },
+      "meta": {
+        "defaultSentenceCase": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.16}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      },
+      "body": {
+        "xlargeLink": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "xlarge": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "xlargeStrong": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "largeStrong": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "largeLink": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "defaultStrong": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "defaultLink": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "smallStrong": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "smallLink": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      },
+      "headline": {
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.64}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "largeMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.56}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.56}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "defaultMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "smallMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "xsmall": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "xsmallMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      },
+      "title": {
+        "xlarge": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.56}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "xlargeMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.40}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "largeMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.32}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "defaultMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "smallMobile": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      },
+      "label": {
+        "large": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "default": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.24}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        },
+        "small": {
+          "lineHeight": {
+            "base": {
+              "value": "{dimension.typography.lineHeight.16}",
+              "type": "lineHeight"
+            }
+          },
+          "paragraphSpacing": {
+            "base": {
+              "value": "{dimension.typography.paragraphSpacing.0}",
+              "type": "lineHeight"
+            }
+          }
+        }
+      }
+    }
+  }
+}
