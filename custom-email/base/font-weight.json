@@ -1,0 +1,265 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "font-weight": {
+    "typography": {
+      "display": {
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "large-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        }
+      },
+      "meta": {
+        "default-sentence-case": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.medium}",
+            "type": "fontWeight"
+          }
+        },
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.medium}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.medium}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.medium}",
+            "type": "fontWeight"
+          }
+        }
+      },
+      "headline": {
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "large-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "xsmall": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "xsmall-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        }
+      },
+      "title": {
+        "xlarge": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "xlarge-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "large-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "default-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        },
+        "small-mobile": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.bold}",
+            "type": "fontWeight"
+          }
+        }
+      },
+      "label": {
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        }
+      },
+      "body": {
+        "xlarge": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.regular}",
+            "type": "fontWeight"
+          }
+        },
+        "xlarge-link": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "xlarge-strong": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "large": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.regular}",
+            "type": "fontWeight"
+          }
+        },
+        "large-strong": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "large-link": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "default": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.regular}",
+            "type": "fontWeight"
+          }
+        },
+        "default-strong": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "default-link": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "small": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.regular}",
+            "type": "fontWeight"
+          }
+        },
+        "small-strong": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        },
+        "small-link": {
+          "font-weight": {
+            "value": "{string.typography.font-weight.semibold}",
+            "type": "fontWeight"
+          }
+        }
+      }
+    }
+  }
+}
