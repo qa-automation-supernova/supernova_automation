@@ -1,0 +1,701 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "typography": {
+      "font-family": {
+        "montserrat": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "value-serif-pro": {
+          "value": "Value Serif Pro",
+          "type": "string"
+        },
+        "value-sans-pro": {
+          "value": "Value Sans Pro",
+          "type": "string"
+        },
+        "inter": {
+          "value": "Inter",
+          "type": "string"
+        },
+        "rubik": {
+          "value": "Rubik",
+          "type": "string"
+        },
+        "aeonik": {
+          "value": "Aeonik",
+          "type": "string"
+        },
+        "montserrat_1": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "open-sans": {
+          "value": "Open Sans",
+          "type": "string"
+        },
+        "nunito": {
+          "value": "Nunito",
+          "type": "string"
+        }
+      },
+      "font-weight": {
+        "light": {
+          "value": "Light",
+          "type": "string"
+        },
+        "regular": {
+          "value": "Regular",
+          "type": "string"
+        },
+        "medium": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "semibold": {
+          "value": "Semibold",
+          "type": "string"
+        },
+        "bold": {
+          "value": "Bold",
+          "type": "string"
+        }
+      },
+      "text-case": {
+        "none": {
+          "value": "none",
+          "type": "string"
+        },
+        "uppercase": {
+          "value": "uppercase",
+          "type": "string"
+        }
+      },
+      "text-decoration": {
+        "none": {
+          "value": "none",
+          "type": "string"
+        },
+        "underline": {
+          "value": "underline",
+          "type": "string"
+        }
+      },
+      "display": {
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        }
+      },
+      "headline": {
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "xsmall": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "xsmall-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        }
+      },
+      "title": {
+        "xlarge": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "xlarge-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small-mobile": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        }
+      },
+      "label": {
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        }
+      },
+      "body": {
+        "xlarge": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "xlarge-strong": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "xlarge-link": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.underline}",
+            "type": "string"
+          }
+        },
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large-strong": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "large-link": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.underline}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-strong": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-link": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.underline}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small-strong": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small-link": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.underline}",
+            "type": "string"
+          }
+        }
+      },
+      "meta": {
+        "large": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.uppercase}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.uppercase}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "default-sentence-case": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.none}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        },
+        "small": {
+          "font-family": {
+            "value": "{string.typography.font-family.montserrat}",
+            "type": "string"
+          },
+          "text-case": {
+            "value": "{string.typography.text-case.uppercase}",
+            "type": "string"
+          },
+          "text-decoration": {
+            "value": "{string.typography.text-decoration.none}",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "border-style": {
+      "solid": {
+        "value": "solid",
+        "type": "string"
+      },
+      "component": {
+        "button": {
+          "focus": {
+            "value": "{string.border-style.solid}",
+            "type": "string"
+          },
+          "default": {
+            "value": "{string.border-style.solid}",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "assets": {
+      "illustration": {
+        "value": "tcg",
+        "type": "string"
+      },
+      "logo": {
+        "value": "tcg",
+        "type": "string"
+      }
+    }
+  }
+}
