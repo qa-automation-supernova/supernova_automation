@@ -1,128 +1,19 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
   "shadow": {
-    "_01-button": {
-      "focus": {
-        "value": "0px 0px 3px 0px #0070d2",
-        "type": "shadow"
+    "elevation": {
+      "shadow": {
+        "m": {
+          "value": "0px 2px 6px 0px #00000040"
+        },
+        "l": {
+          "value": "0px 4px 8px 0px #0000004d"
+        }
       }
     },
-    "_02-container": {
-      "border-all": {
-        "value": "0px 1px 0px 0px #e5e5e5, 0px -1px 0px 0px #c9c9c9, -1px 0px 0px 0px #c9c9c9, 1px 0px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-top-bottom": {
-        "value": "0px 1px 0px 0px #c9c9c9, 0px -1px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-top": {
-        "value": "0px -1px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-bottom": {
-        "value": "0px 1px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-right": {
-        "value": "1px 0px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-left": {
-        "value": "-1px 0px 0px 0px #c9c9c9",
-        "type": "shadow"
-      },
-      "border-left-right": {
-        "value": "1px 0px 0px 0px #c9c9c9, -1px 0px 0px 0px #c9c9c9",
-        "type": "shadow"
-      }
-    },
-    "_03-modal": {
-      "default": {
-        "value": "0px 2px 3px 0px #00000029",
-        "type": "shadow"
-      }
-    },
-    "_04-card": {
-      "default": {
-        "value": "0px 2px 2px 0px #0000001a",
-        "type": "shadow"
-      },
-      "raised": {
-        "value": "0px 4px 4px 0px #00000029",
-        "type": "shadow"
-      }
-    },
-    "_05-tab": {
-      "selected": {
-        "value": "inset 0px -2px 0px 0px #1589ee",
-        "type": "shadow"
-      },
-      "hover": {
-        "value": "inset 0px -1px 0px 0px #1589ee",
-        "type": "shadow"
-      },
-      "default": {
-        "value": "inset 0px -1px 0px 0px #747474",
-        "type": "shadow"
-      }
-    },
-    "_06-input": {
-      "focus": {
-        "value": "0px 0px 3px 0px #0070d2",
-        "type": "shadow"
-      },
-      "error": {
-        "value": "0px 1px 0px 0px #c23934, 0px -1px 0px 0px #c23934, 1px 0px 0px 0px #c23934, -1px 0px 0px 0px #c23934, -1px -1px 0px 0px #c23934, -1px 1px 0px 0px #c23934, 1px -1px 0px 0px #c23934, 1px 1px 0px 0px #c23934",
-        "type": "shadow"
-      }
-    },
-    "_07-panel": {
-      "right": {
-        "value": "1px 0px 3px 0px #00000040",
-        "type": "shadow"
-      },
-      "left": {
-        "value": "-1px 0px 3px 0px #00000040",
-        "type": "shadow"
-      },
-      "bottom": {
-        "value": "0px -1px 3px 0px #00000040",
-        "type": "shadow"
-      }
-    },
-    "_08-vertical-navigation": {
-      "selected": {
-        "value": "inset 4px 0px 0px 0px #1589ee",
-        "type": "shadow"
-      },
-      "hover": {
-        "value": "inset 2px 0px 0px 0px #1589ee",
-        "type": "shadow"
-      }
-    },
-    "_09-listbox": {
-      "default": {
-        "value": "0px 2px 3px 0px #00000029",
-        "type": "shadow"
-      }
-    },
-    "_10-menu": {
-      "default": {
-        "value": "0px 2px 3px 0px #00000029",
-        "type": "shadow"
-      }
-    },
-    "_11-popover": {
-      "default": {
-        "value": "0px 2px 3px 0px #00000029",
-        "type": "shadow"
-      }
-    },
-    "_12-docked-composer": {
-      "bottom": {
-        "value": "0px -3px 4px 0px #00000029",
-        "type": "shadow"
+    "shadow": {
+      "shadow-reference": {
+        "value": "{shadow.elevation.shadow.m}"
       }
     }
   }
