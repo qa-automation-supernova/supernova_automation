@@ -1,0 +1,15 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --typographyHeadingL: 600 18px/140% "Source Sans Pro";
+  --typographyParagraphM: 400 14px/140% "Source Sans Pro";
+  --typographyParagraphMBold: 600 14px/140% "Source Sans Pro";
+  --typographyParagraphS: 400 12px/140% "Source Sans Pro";
+  --typographyParagraphSBold: 600 12px/140% "Source Sans Pro";
+  --typographyHeadingM: 600 16px/140% "Source Sans Pro";
+  --typographyHeadingS: 600 14px/140% "Source Sans Pro";
+  --typographyTokenReference: var(--typographyParagraphM);
+}

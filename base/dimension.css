@@ -1,0 +1,61 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --dimension-border-radius-rounded-none: 0px;
+  --dimension-border-radius-rounded-sm: 2px;
+  --dimension-border-radius-rounded: 4px;
+  --dimension-border-radius-rounded-md: 6px;
+  --dimension-border-radius-rounded-lg: 8px;
+  --dimension-border-radius-rounded-xl: 12px;
+  --dimension-border-radius-rounded-2xl: 16px;
+  --dimension-border-radius-rounded-3xl: 24px;
+  --dimension-border-radius-rounded-full: 9999px;
+  --dimension-spacing-0: 0px;
+  --dimension-spacing-px: 1px;
+  --dimension-spacing-0-5: 2px;
+  --dimension-spacing-1: 4px;
+  --dimension-spacing-1-5: 6px;
+  --dimension-spacing-2: 8px;
+  --dimension-spacing-2-5: 10px;
+  --dimension-spacing-3: 12px;
+  --dimension-spacing-3-5: 14px;
+  --dimension-spacing-4: 16px;
+  --dimension-spacing-5: 20px;
+  --dimension-spacing-6: 24px;
+  --dimension-spacing-7: 28px;
+  --dimension-spacing-8: 32px;
+  --dimension-spacing-9: 36px;
+  --dimension-spacing-10: 40px;
+  --dimension-spacing-11: 44px;
+  --dimension-spacing-12: 48px;
+  --dimension-spacing-14: 56px;
+  --dimension-spacing-16: 64px;
+  --dimension-spacing-20: 80px;
+  --dimension-spacing-24: 96px;
+  --dimension-spacing-28: 112px;
+  --dimension-spacing-32: 128px;
+  --dimension-spacing-36: 144px;
+  --dimension-spacing-40: 160px;
+  --dimension-spacing-44: 176px;
+  --dimension-spacing-48: 192px;
+  --dimension-spacing-52: 208px;
+  --dimension-spacing-56: 224px;
+  --dimension-spacing-60: 240px;
+  --dimension-spacing-64: 256px;
+  --dimension-spacing-72: 288px;
+  --dimension-spacing-80: 320px;
+  --dimension-spacing-96: 384px;
+  /* => @media (min-width: 640px) { ... } */
+  --dimension-screens-sm: 640px;
+  /* @media (min-width: 768px) { ... } */
+  --dimension-screens-md: 768px;
+  /* => @media (min-width: 1024px) { ... } */
+  --dimension-screens-lg: 1024px;
+  /* => @media (min-width: 1280px) { ... } */
+  --dimension-screens-xl: 1280px;
+  /* => @media (min-width: 1536px) { ... } */
+  --dimension-screens-2xl: 1536px;
+}
