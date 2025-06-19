@@ -1,0 +1,32 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --shadow-01-button-focus: 0px 0px 3px 0px #0070d2;
+  --shadow-02-container-border-all: 0px 1px 0px 0px #e5e5e5, 0px -1px 0px 0px #c9c9c9, -1px 0px 0px 0px #c9c9c9, 1px 0px 0px 0px #c9c9c9;
+  --shadow-02-container-border-top-bottom: 0px 1px 0px 0px #c9c9c9, 0px -1px 0px 0px #c9c9c9;
+  --shadow-02-container-border-top: 0px -1px 0px 0px #c9c9c9;
+  --shadow-02-container-border-bottom: 0px 1px 0px 0px #c9c9c9;
+  --shadow-02-container-border-right: 1px 0px 0px 0px #c9c9c9;
+  --shadow-02-container-border-left: -1px 0px 0px 0px #c9c9c9;
+  --shadow-02-container-border-left-right: 1px 0px 0px 0px #c9c9c9, -1px 0px 0px 0px #c9c9c9;
+  --shadow-03-modal-default: 0px 2px 3px 0px #00000029;
+  --shadow-04-card-default: 0px 2px 2px 0px #0000001a;
+  --shadow-04-card-raised: 0px 4px 4px 0px #00000029;
+  --shadow-05-tab-selected: inset 0px -2px 0px 0px #1589ee;
+  --shadow-05-tab-hover: inset 0px -1px 0px 0px #1589ee;
+  --shadow-05-tab-default: inset 0px -1px 0px 0px #747474;
+  --shadow-06-input-focus: 0px 0px 3px 0px #0070d2;
+  --shadow-06-input-error: 0px 1px 0px 0px #c23934, 0px -1px 0px 0px #c23934, 1px 0px 0px 0px #c23934, -1px 0px 0px 0px #c23934, -1px -1px 0px 0px #c23934, -1px 1px 0px 0px #c23934, 1px -1px 0px 0px #c23934, 1px 1px 0px 0px #c23934;
+  --shadow-07-panel-right: 1px 0px 3px 0px #00000040;
+  --shadow-07-panel-left: -1px 0px 3px 0px #00000040;
+  --shadow-07-panel-bottom: 0px -1px 3px 0px #00000040;
+  --shadow-08-vertical-navigation-selected: inset 4px 0px 0px 0px #1589ee;
+  --shadow-08-vertical-navigation-hover: inset 2px 0px 0px 0px #1589ee;
+  --shadow-09-listbox-default: 0px 2px 3px 0px #00000029;
+  --shadow-10-menu-default: 0px 2px 3px 0px #00000029;
+  --shadow-11-popover-default: 0px 2px 3px 0px #00000029;
+  --shadow-12-docked-composer-bottom: 0px -3px 4px 0px #00000029;
+}
